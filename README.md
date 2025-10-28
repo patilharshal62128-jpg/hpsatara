@@ -4,8 +4,8 @@
   <title>Satara Polytechnic, Satara</title>
 </head>
 <body>
-  <h1>Satara Polytechnic, Satara</h1>
-  <p>Welcome to our college!</p>
+  <h1> rasika's home </h1>
+  <p>rasika's home !</p>
 </body>
 </html>
 # hpsatara
